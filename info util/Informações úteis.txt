@@ -1,0 +1,9 @@
+cd .. 
+
+ls
+
+git clone - para copiar diretório github para máquina 
+
+git commit -m - fazer commit de dados
+
+git push - atualizar com git hub
